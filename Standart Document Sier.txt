@@ -3,3 +3,8 @@
 3.	Software Specification Document
 4.	Requirement Traceability Matrix Document
 5.	Test Scenario Document
+6.	User Acceptance Testing and QA Document
+7.	Progress Report Development Document
+8.	Security Testing Document
+9.	Manual Guide
+10.	Source code aplikasi
